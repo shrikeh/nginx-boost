@@ -7,3 +7,6 @@
 [submodule "modules/ngx_http_geoip2_module"]
 	path = modules/ngx_http_geoip2_module
 	url = https://github.com/leev/ngx_http_geoip2_module.git
+[submodule "modules/emc-nginx-module"]
+	path = modules/emc-nginx-module
+	url = https://github.com/openresty/memc-nginx-module.git
