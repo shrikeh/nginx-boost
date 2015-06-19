@@ -19,3 +19,6 @@
 [submodule "modules/encrypted-session-nginx-module"]
 	path = modules/encrypted-session-nginx-module
 	url = https://github.com/openresty/encrypted-session-nginx-module.git
+[submodule "modules/lua-resty-websocket"]
+	path = modules/lua-resty-websocket
+	url = https://github.com/openresty/lua-resty-websocket.git
