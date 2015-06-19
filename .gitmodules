@@ -22,3 +22,6 @@
 [submodule "modules/lua-resty-websocket"]
 	path = modules/lua-resty-websocket
 	url = https://github.com/openresty/lua-resty-websocket.git
+[submodule "modules/lua-resty-memcached"]
+	path = modules/lua-resty-memcached
+	url = https://github.com/openresty/lua-resty-memcached.git
