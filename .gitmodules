@@ -1,5 +1,5 @@
 [submodule "nginx"]
-	path = nginx
+	path = core
 	url = https://github.com/nginx/nginx.git
 [submodule "contrib/ngx_http_geoip2_module"]
 	path = modules/contrib/ngx_http_geoip2_module

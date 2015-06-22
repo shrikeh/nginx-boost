@@ -1,2 +1,2 @@
-nginx/objs
-nginx/Makefile
+core/objs
+core/Makefile
