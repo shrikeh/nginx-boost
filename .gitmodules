@@ -14,7 +14,7 @@
 	path = modules/contrib/headers-more-nginx-module
 	url = https://github.com/openresty/headers-more-nginx-module.git
 [submodule "contrib/encrypted-session-nginx-module"]
-	path = contrib/encrypted-session-nginx-module
+	path = modules/contrib/encrypted-session-nginx-module
 	url = https://github.com/openresty/encrypted-session-nginx-module.git
 [submodule "contrib/array-var-nginx-module"]
 	path = modules/contrib/array-var-nginx-module
